@@ -7,4 +7,6 @@
 Для того, чтобы изучить NextJS, MaterialUI, Framer Motion
 
 # Демонстрация
-![Демо](https://github.com/dacsson/biblioteka_antique_books/assets/64753671/334e668d-a976-4f5c-be21-7c2cf54e8c9b)
+
+![Снимок экрана 2023-12-09 в 13 23 29](https://github.com/dacsson/biblioteka_antique_books/assets/64753671/78b67a52-09a7-4a90-adbc-61f7c1484b23)
+![Снимок экрана 2023-12-09 в 13 24 58](https://github.com/dacsson/biblioteka_antique_books/assets/64753671/9a511930-e5b7-40b0-a168-59480726f038)
